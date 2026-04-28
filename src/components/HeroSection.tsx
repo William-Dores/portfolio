@@ -6,11 +6,11 @@ export function HeroSection() {
       </p>
 
       <h2 className="text-6xl md:text-7xl font-black leading-tight mb-8">
-        Construindo soluções modernas para web e cloud.
+        Construindo soluções modernas para web.
       </h2>
 
       <p className="text-gray-300 text-xl leading-relaxed max-w-3xl mb-10">
-        Desenvolvedor focado em React, Django, AWS e infraestrutura.
+        Desenvolvedor focado em criar soluções WEB.
       </p>
 
       <div className="flex flex-wrap gap-4">

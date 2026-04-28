@@ -1,5 +1,12 @@
 export const skills = [
-    'Java',
+    'Boa comunicação',
+    'Proatividade',
+    'Aprendizado Rapido',
+
+]
+
+export const stacks = [
+      'Java',
     'Python',
     'AWS',
     'Linux',
